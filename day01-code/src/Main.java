@@ -7,7 +7,7 @@ public class Main {
         // 第三行代表打印输出语句（其实就是屏幕显示）
         // 希望显示什么东西，就在小括号当中填写什么内容
         System.out.println("Hello World!");
-
+System.out.println("Hello World!");
 
     }
 }
